@@ -8,7 +8,7 @@ const page = () => {
                 <input type="text" name="" id="" />
                 <input type="text" name="" id="" />
                 <input type="password" name="" id="" /> 
-                <input type="password" name="" id="" />
+                <input type="tel" name="" id="" />
                 <input type="button" name="" id="" />
 
             </form>
