@@ -2,6 +2,10 @@
 const page = () => {
     return (
         <div>
+      <h2>This is from dev2 </h2>
+      <form action="">
+        <input type="text" />
+      </form>
             <form >
                <input type="text" value="" />
                <input type="text" value="" />
